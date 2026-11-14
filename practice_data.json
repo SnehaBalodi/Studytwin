@@ -1,0 +1,80 @@
+[
+    {
+        "topic": "Array",
+        "question": "2 sum",
+        "difficulty": "easy",
+        "correct": true,
+        "minutes": 5
+    },
+    {
+        "topic": "Arrays",
+        "question": "Maximum Consecutive Ones",
+        "difficulty": "Medium",
+        "correct": false,
+        "minutes": 20
+    },
+    {
+        "topic": "array",
+        "question": "3 sum",
+        "difficulty": "hard",
+        "correct": false,
+        "minutes": 30
+    },
+    {
+        "topic": "Array",
+        "question": "2 sum",
+        "difficulty": "easy",
+        "correct": true,
+        "minutes": 5
+    },
+    {
+        "topic": "array",
+        "question": "consecutive sum",
+        "difficulty": "medium",
+        "correct": true,
+        "minutes": 15
+    },
+    {
+        "topic": "recursion",
+        "question": "palindrome",
+        "difficulty": "hard",
+        "correct": false,
+        "minutes": 15
+    },
+    {
+        "topic": "1",
+        "question": "2 sum",
+        "difficulty": "easy",
+        "correct": true,
+        "minutes": 5
+    },
+    {
+        "topic": "recursion",
+        "question": "factorial",
+        "difficulty": "easy",
+        "correct": true,
+        "minutes": 3
+    },
+    {
+        "topic": "linked list",
+        "question": "adding element",
+        "difficulty": "medium",
+        "correct": false,
+        "minutes": 10
+    },
+    {
+        "topic": "string",
+        "question": "add string",
+        "difficulty": "medium",
+        "correct": true,
+        "minutes": 8
+    },
+    {
+        "topic": "stack",
+        "question": "pop",
+        "difficulty": "easy",
+        "correct": true,
+        "minutes": 4,
+        "date": "2026-10-11"
+    }
+]
